@@ -27,6 +27,8 @@
 - 🔬 **Immunology Analyst** – ITR Labs (2022–2024)  
 - 📊 Transitioning into **Data Science & Analytics**  
 
+![Ian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sait0uAsuka&theme=tokyo-night)
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-sun-78655820a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Sait0uAsuka)

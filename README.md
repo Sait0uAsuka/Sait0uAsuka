@@ -22,8 +22,12 @@
 
 
 ### 📈 GitHub Stats
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sait0uAsuka&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sait0uAsuka&layout=compact&theme=tokyonight)
+
+
+![Snake animation](https://github.com/Sait0uAsuka/Sait0uAsuka/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ### 🎓 Background
 - 🎓 **BSc in Biochemistry** – Carleton University  

@@ -10,21 +10,15 @@
 
 ### 📊 Projects
 
-**Diabetes Predictor**
-<br>
-<img src="https://raw.githubusercontent.com/AidanDavid/DiabetesPredictor/main/preview.png" width="400">
-<br>
-[🔗 GitHub Repo](https://github.com/AidanDavid/DiabetesPredictor) | Built with Python, Pandas, Logistic Regression
+#### 🩺 Diabetes Predictor  
+**Interactive Tableau Dashboard**  
+<br>  
+<a href="https://public.tableau.com/app/profile/yiheng.sun/viz/diabetes_17406445784920/Story1">
+  <img src="https://public.tableau.com/static/images/di/diabetes_17406445784920/Story1/1.png" width="400">
+</a>  
+<br>  
+[🔗 GitHub Repo](https://github.com/AidanDavid/DiabetesPredictor) | Built with Python, Pandas, Logistic Regression, Tableau  
 
-### 🌋 Global Volcanic Activity Analysis
-
-**Interactive Tableau Dashboard**
-<br>
-<a href="https://public.tableau.com/views/YourDashboardLinkHere">
-  <img src="https://public.tableau.com/static/images/YO/YourImageName/1_rss.png" width="400">
-</a>
-<br>
-[🔗 GitHub Repo](https://github.com/AidanDavid/GlobalVolcanicActivity) | Python, Matplotlib, Tableau
 
 
 ### 📈 GitHub Stats

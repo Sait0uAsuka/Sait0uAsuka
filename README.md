@@ -25,7 +25,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sait0uAsuka&layout=compact&theme=tokyonight)
 
 
-![Snake animation](https://github.com/Sait0uAsuka/Sait0uAsuka/blob/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Data+Analyst;Python+%7C+SQL+%7C+Tableau;Always+learning+new+skills)
+
 
 
 

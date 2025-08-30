@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sait0uAsuka
-- 👀 I’m interested in SQL, Big data analysis, and Tableau
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=460&lines=Yiheng+Sun;Python+%7C+SQL+%7C+Tableau;Biochemistry+background;Data+Analytical+Certificated)
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -19,16 +18,8 @@
 <br>  
 [🔗 GitHub Repo](https://github.com/AidanDavid/DiabetesPredictor) | Built with Python, Pandas, Logistic Regression, Tableau  
 
-
-
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sait0uAsuka&layout=compact&theme=tokyonight)
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Data+Analyst;Python+%7C+SQL+%7C+Tableau;Always+learning+new+skills)
-
-
-
 
 ### 🎓 Background
 - 🎓 **BSc in Biochemistry** – Carleton University  

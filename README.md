@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Sait0uAsuka
 - 👀 I’m interested in SQL, Big data analysis, and Tableau
-- 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me [Ian Sun](https://www.linkedin.com/in/ian-sun-78655820a/)
-- ⚡ Fun fact: I majored in Biochemistry and worked in the wet lab for two years with new drug toxic testing.
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -18,6 +15,17 @@
 <img src="https://raw.githubusercontent.com/AidanDavid/DiabetesPredictor/main/preview.png" width="400">
 <br>
 [🔗 GitHub Repo](https://github.com/AidanDavid/DiabetesPredictor) | Built with Python, Pandas, Logistic Regression
+
+### 🌋 Global Volcanic Activity Analysis
+
+**Interactive Tableau Dashboard**
+<br>
+<a href="https://public.tableau.com/views/YourDashboardLinkHere">
+  <img src="https://public.tableau.com/static/images/YO/YourImageName/1_rss.png" width="400">
+</a>
+<br>
+[🔗 GitHub Repo](https://github.com/AidanDavid/GlobalVolcanicActivity) | Python, Matplotlib, Tableau
+
 
 ### 📈 GitHub Stats
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sait0uAsuka&show_icons=true&theme=tokyonight)
